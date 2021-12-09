@@ -7,7 +7,7 @@ public class Main {
 
         m.attach(w1);
         m.attach(w2);
-        m.notifyUpdate(new Notifikasi("Anime Demon Slayer : Kimetsu no Yaiba Season 2 Rilis pada Bulan Oktober"));
+        m.notifyUpdate(new Notifikasi("Anime 'Demon Slayer : Kimetsu no Yaiba Season 2' Rilis pada Bulan Oktober"));
         // w1 and w2 akan diperbarui dan mendapatkan pembaruan berupa notifikasi
 
     }
