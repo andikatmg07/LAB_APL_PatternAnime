@@ -1,4 +1,4 @@
-public class Notifikasi {
+public class Notifikasi { //class notifikasi dimana akan memberikan notifikasi kepada wibu
     final String notifikasiDiberikan;
 
     public Notifikasi(String n) {
